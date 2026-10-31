@@ -31,6 +31,7 @@ Worked on internal web development, IT support, hardware management, and worksta
 **Epitech Berlin Web Platform**
 
 Developed a full-stack web platform with a content management system, allowing administrators to dynamically manage pages and content.
+website: https://epitech-berlin-platform.vercel.app/
 
 **AI-Powered Movie Quiz**
 
